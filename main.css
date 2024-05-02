@@ -202,12 +202,12 @@ min-width: 74em     ->  col-sl
 
 @media screen and(min-width:48.75em){
     .col-md-6{
-        width: calc(50%- var(--default-gap));
+        width: calc(50% - var(--default-gap));
     }
 }
 
 @media screen and(min-width:74em){
     .col-xl-3{
-        width: calc(25%- var(--default-gap));
+        width: calc(25% - var(--default-gap));
     }
 }
